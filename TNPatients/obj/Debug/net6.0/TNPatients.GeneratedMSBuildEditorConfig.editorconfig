@@ -1,0 +1,152 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TNPatients
+build_property.RootNamespace = TNPatients
+build_property.ProjectDir = C:\Users\thuyg\source\repos\TNPatients\TNPatients\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thuyg\source\repos\TNPatients\TNPatients
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNConcentrationUnit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db25jZW50cmF0aW9uVW5pdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNConcentrationUnit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db25jZW50cmF0aW9uVW5pdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNConcentrationUnit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db25jZW50cmF0aW9uVW5pdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNConcentrationUnit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db25jZW50cmF0aW9uVW5pdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNConcentrationUnit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db25jZW50cmF0aW9uVW5pdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNCountry/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db3VudHJ5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNCountry/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db3VudHJ5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNCountry/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db3VudHJ5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNCountry/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db3VudHJ5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNCountry/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5Db3VudHJ5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDiagnosisCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaWFnbm9zaXNDYXRlZ29yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDiagnosisCategory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaWFnbm9zaXNDYXRlZ29yeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDiagnosisCategory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaWFnbm9zaXNDYXRlZ29yeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDiagnosisCategory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaWFnbm9zaXNDYXRlZ29yeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDiagnosisCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaWFnbm9zaXNDYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDispensingUnit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaXNwZW5zaW5nVW5pdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDispensingUnit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaXNwZW5zaW5nVW5pdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDispensingUnit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaXNwZW5zaW5nVW5pdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDispensingUnit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaXNwZW5zaW5nVW5pdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNDispensingUnit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5EaXNwZW5zaW5nVW5pdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNMedicationType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5NZWRpY2F0aW9uVHlwZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNMedicationType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5NZWRpY2F0aW9uVHlwZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNMedicationType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5NZWRpY2F0aW9uVHlwZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNMedicationType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5NZWRpY2F0aW9uVHlwZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/TNMedicationType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVE5NZWRpY2F0aW9uVHlwZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thuyg/source/repos/TNPatients/TNPatients/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f4u9n1s9dj
